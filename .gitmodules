@@ -1,4 +1,4 @@
 [submodule "mongoid"]
 	path = mongoid
-	url = https://github.com/mongodb/mongoid.git
-	branch = master
+	url = https://github.com/jwilliams-mongo/mongoid.git
+	branch = DOCSP-37326
